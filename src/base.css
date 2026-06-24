@@ -760,5 +760,5 @@ div[class*="footerSeparator"] {
     background: var(--background-primary);
 }
 li[class^="card-"]>div[class^="container-"] {
-    background: var(--background-floating)
+    background: var(--background-floating);
 }
